@@ -1,2 +1,2 @@
 # e8yesart
-e8yes Artworks
+e8yes Artworks. Free to use.
